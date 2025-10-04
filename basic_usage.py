@@ -4,7 +4,7 @@ Save these in the examples/ directory
 """
 
 # ============================================================================
-# examples/basic_usage.py
+# examples
 # ============================================================================
 """
 Basic usage examples for DataFetcherPro
