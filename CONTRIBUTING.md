@@ -43,7 +43,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 ## Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/datafetcher-pro.git
+git clone https://github.com/aaronobandoporfolio/datafetcher_pro.git
 cd datafetcher-pro
 
 # Create virtual environment
