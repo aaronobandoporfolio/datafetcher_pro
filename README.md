@@ -31,7 +31,7 @@ pip install pandas requests beautifulsoup4 lxml openpyxl \
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/datafetcher-pro.git
+git clone https://github.com/aaronobandoporfolio/datafetcher_pro.git
 cd datafetcher-pro
 pip install -r requirements.txt
 ```
